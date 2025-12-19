@@ -48,8 +48,3 @@ Based on the analysis, I recommend **keeping the gate at Level 30**.
 1.  **Prevent Churn:** Implementing Gate 30 prevents a **~4.5% drop** in the long-term user base.
 2.  **Maximize LTV:** Higher retention is a leading indicator for higher Lifetime Value (LTV).
 3.  **Ad Revenue Potential:** Since engagement (rounds played) remained stable, the increased retention translates directly to more daily sessions and ad impressions over the player's lifetime.
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone (https://github.com/Noora66612/Optimizing-Mobile-Game-Retention.git)]
